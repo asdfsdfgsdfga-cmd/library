@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "binance",
+    "name": "Binance",
+    "logoText": "BN",
+    "brandColor": "#F0B90B",
+    "rating": 4.8,
+    "score": 96.0,
+    "reviews": 12840,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$76.5B",
+    "coinsCount": 420,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Global",
+      "zh": "全球"
+    },
+    "established": "2017",
+    "description": {
+      "en": "The largest crypto exchange by trading volume, offering spot, futures, earn and more. Deep liquidity across markets.",
+      "zh": "全球交易量領先的數字資產交易平臺，提供現貨、合約、理財等多元產品。深度與流動性表現突出。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "Launchpool",
+        "API trading",
+        "Web3 wallet"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "Launchpool",
+        "API 交易",
+        "Web3 錢包"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "options",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 4.8,
+      "liquidity": 4.9,
+      "fees": 4.5,
+      "experience": 4.8,
+      "support": 4.4
+    },
+    "recommended": true,
+    "website": "https://www.binance.com"
+  },
+  {
+    "id": "okx",
+    "name": "OKX",
+    "logoText": "OK",
+    "brandColor": "#D9DDE4",
+    "rating": 4.7,
+    "score": 94.0,
+    "reviews": 9860,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk"
+      ],
+      "zh": [
+        "衍生品槓桿風險"
+      ]
+    },
+    "volume24h": "$42.3B",
+    "coinsCount": 350,
+    "makerFee": "0.08%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Global",
+      "zh": "全球"
+    },
+    "established": "2017",
+    "description": {
+      "en": "A long-established all-round platform covering spot, perpetuals, options and a Web3 wallet, with mature tooling.",
+      "zh": "老牌綜合型交易平臺，產品線覆蓋現貨、永續合約、期權與 Web3 錢包，介面與工具鏈完善。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Perpetual futures",
+        "Options",
+        "Web3 wallet",
+        "Strategy trading",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "永續合約",
+        "期權交易",
+        "Web3 錢包",
+        "策略交易",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "options",
+      "web3"
+    ],
+    "breakdown": {
+      "security": 4.7,
+      "liquidity": 4.7,
+      "fees": 4.5,
+      "experience": 4.8,
+      "support": 4.4
+    },
+    "recommended": true,
+    "website": "https://www.okx.com"
+  },
+  {
+    "id": "coinbase",
+    "name": "Coinbase",
+    "logoText": "CB",
+    "brandColor": "#0052FF",
+    "rating": 4.6,
+    "score": 92.0,
+    "reviews": 7420,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Unavailable in some regions"
+      ],
+      "zh": [
+        "部分地區不可用"
+      ]
+    },
+    "volume24h": "$18.7B",
+    "coinsCount": 240,
+    "makerFee": "0.40%",
+    "takerFee": "0.60%",
+    "country": {
+      "en": "United States",
+      "zh": "美國"
+    },
+    "established": "2012",
+    "description": {
+      "en": "A US-listed exchange with strong compliance and custody, best suited to users who prioritise regulation and asset safety.",
+      "zh": "美國上市交易所，合規與託管體系完善，適合重視監管合規與資產安全的使用者。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Custody",
+        "Fiat on/off-ramp",
+        "Institutional services",
+        "Staking"
+      ],
+      "zh": [
+        "現貨交易",
+        "託管服務",
+        "法幣出入金",
+        "機構服務",
+        "質押"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "custody",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.9,
+      "liquidity": 4.4,
+      "fees": 3.9,
+      "experience": 4.6,
+      "support": 4.5
+    },
+    "recommended": true,
+    "website": "https://www.coinbase.com"
+  },
+  {
+    "id": "cryptocom",
+    "name": "Crypto.com",
+    "logoText": "CD",
+    "brandColor": "#1199FA",
+    "rating": 4.5,
+    "score": 90.0,
+    "reviews": 6120,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Regional compliance restrictions",
+        "Fiat channel limits"
+      ],
+      "zh": [
+        "部分地區合規限制",
+        "法幣通道受限"
+      ]
+    },
+    "volume24h": "$12.8B",
+    "coinsCount": 350,
+    "makerFee": "0.075%",
+    "takerFee": "0.075%",
+    "country": {
+      "en": "Singapore",
+      "zh": "新加坡"
+    },
+    "established": "2016",
+    "description": {
+      "en": "A consumer-focused platform offering spot, futures, staking and a payment card, with broad brand reach.",
+      "zh": "以支付與消費場景見長的綜合平臺，提供現貨、合約、質押與簽帳金融卡服務，品牌覆蓋廣泛。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Staking & earn",
+        "Payment card",
+        "Institutional services"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "質押理財",
+        "支付卡",
+        "機構服務"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn",
+      "payment"
+    ],
+    "breakdown": {
+      "security": 4.6,
+      "liquidity": 4.4,
+      "fees": 4.2,
+      "experience": 4.5,
+      "support": 4.1
+    },
+    "recommended": true,
+    "website": "https://crypto.com"
+  },
+  {
+    "id": "kraken",
+    "name": "Kraken",
+    "logoText": "KR",
+    "brandColor": "#5741D9",
+    "rating": 4.5,
+    "score": 90.0,
+    "reviews": 5210,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Complex product set"
+      ],
+      "zh": [
+        "產品複雜度較高"
+      ]
+    },
+    "volume24h": "$9.4B",
+    "coinsCount": 210,
+    "makerFee": "0.16%",
+    "takerFee": "0.26%",
+    "country": {
+      "en": "United States",
+      "zh": "美國"
+    },
+    "established": "2011",
+    "description": {
+      "en": "One of the oldest platforms, known for security and compliance, with stable spot and futures products.",
+      "zh": "歷史悠久的交易平臺，以安全性與合規著稱，現貨與合約產品線穩定。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Staking",
+        "Fiat on/off-ramp",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "質押",
+        "法幣出入金",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.8,
+      "liquidity": 4.3,
+      "fees": 4.2,
+      "experience": 4.4,
+      "support": 4.4
+    },
+    "recommended": false,
+    "website": "https://www.kraken.com"
+  },
+  {
+    "id": "bybit",
+    "name": "Bybit",
+    "logoText": "BB",
+    "brandColor": "#F7A600",
+    "rating": 4.4,
+    "score": 88.0,
+    "reviews": 6830,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk",
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "衍生品槓桿風險",
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$24.1B",
+    "coinsCount": 300,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Dubai",
+      "zh": "迪拜"
+    },
+    "established": "2018",
+    "description": {
+      "en": "A derivatives-first platform with strong perpetual futures depth, plus spot and copy trading.",
+      "zh": "衍生品見長的交易平臺，合約深度優秀，同時提供現貨與跟單產品。"
+    },
+    "features": {
+      "en": [
+        "Perpetual futures",
+        "Spot trading",
+        "Copy trading",
+        "API trading",
+        "Earn"
+      ],
+      "zh": [
+        "永續合約",
+        "現貨交易",
+        "跟單交易",
+        "API 交易",
+        "理財 Earn"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "copyTrade"
+    ],
+    "breakdown": {
+      "security": 4.4,
+      "liquidity": 4.6,
+      "fees": 4.4,
+      "experience": 4.5,
+      "support": 4.1
+    },
+    "recommended": false,
+    "website": "https://www.bybit.com"
+  },
+  {
+    "id": "bitstamp",
+    "name": "Bitstamp",
+    "logoText": "BS",
+    "brandColor": "#00B33C",
+    "rating": 4.4,
+    "score": 88.0,
+    "reviews": 3980,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Basic product lineup",
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "產品線相對基礎",
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$1.2B",
+    "coinsCount": 80,
+    "makerFee": "0.30%",
+    "takerFee": "0.40%",
+    "country": {
+      "en": "Luxembourg",
+      "zh": "盧森堡"
+    },
+    "established": "2011",
+    "description": {
+      "en": "A veteran European exchange known for stable operations and fiat rails, ideal for a simple spot experience.",
+      "zh": "歐洲老牌交易平臺，以穩定運營與法幣通道著稱，適合偏好簡潔現貨體驗的使用者。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Fiat on/off-ramp",
+        "Institutional services",
+        "API trading",
+        "Custody"
+      ],
+      "zh": [
+        "現貨交易",
+        "法幣出入金",
+        "機構服務",
+        "API 交易",
+        "託管服務"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "institutional"
+    ],
+    "breakdown": {
+      "security": 4.8,
+      "liquidity": 4.0,
+      "fees": 3.8,
+      "experience": 4.3,
+      "support": 4.2
+    },
+    "recommended": false,
+    "website": "https://www.bitstamp.net"
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "logoText": "GM",
+    "brandColor": "#00DCFA",
+    "rating": 4.4,
+    "score": 88.0,
+    "reviews": 3120,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Unavailable in some regions",
+        "Basic product lineup"
+      ],
+      "zh": [
+        "部分地區不可用",
+        "產品線相對基礎"
+      ]
+    },
+    "volume24h": "$0.9B",
+    "coinsCount": 90,
+    "makerFee": "0.20%",
+    "takerFee": "0.40%",
+    "country": {
+      "en": "United States",
+      "zh": "美國"
+    },
+    "established": "2014",
+    "description": {
+      "en": "A US-regulated exchange focused on custody and audits, with a clean interface for long-term and institutional users.",
+      "zh": "美國合規交易平臺，重視託管與審計，介面簡潔，適合長期持有與機構使用者。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Custody",
+        "Fiat on/off-ramp",
+        "Institutional services",
+        "Staking"
+      ],
+      "zh": [
+        "現貨交易",
+        "託管服務",
+        "法幣出入金",
+        "機構服務",
+        "質押"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "custody",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.9,
+      "liquidity": 3.9,
+      "fees": 3.7,
+      "experience": 4.4,
+      "support": 4.3
+    },
+    "recommended": false,
+    "website": "https://www.gemini.com"
+  },
+  {
+    "id": "upbit",
+    "name": "Upbit",
+    "logoText": "UP",
+    "brandColor": "#2F6BFF",
+    "rating": 4.3,
+    "score": 86.0,
+    "reviews": 8640,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Korea-focused market",
+        "Identity verification required"
+      ],
+      "zh": [
+        "韓國市場為主",
+        "實名認證要求"
+      ]
+    },
+    "volume24h": "$11.4B",
+    "coinsCount": 190,
+    "makerFee": "0.05%",
+    "takerFee": "0.05%",
+    "country": {
+      "en": "South Korea",
+      "zh": "韓國"
+    },
+    "established": "2017",
+    "description": {
+      "en": "Korea's leading exchange with deep KRW pairs and strong local service.",
+      "zh": "韓國主要交易平臺，韓元交易對流動性強，本地化服務完善。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "KRW on/off-ramp",
+        "API trading",
+        "Staking"
+      ],
+      "zh": [
+        "現貨交易",
+        "韓元出入金",
+        "API 交易",
+        "質押"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.5,
+      "liquidity": 4.6,
+      "fees": 4.2,
+      "experience": 4.4,
+      "support": 4.1
+    },
+    "recommended": false,
+    "website": "https://upbit.com"
+  },
+  {
+    "id": "bitget",
+    "name": "Bitget",
+    "logoText": "BG",
+    "brandColor": "#00F0FF",
+    "rating": 4.3,
+    "score": 86.0,
+    "reviews": 4980,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk"
+      ],
+      "zh": [
+        "衍生品槓桿風險"
+      ]
+    },
+    "volume24h": "$15.8B",
+    "coinsCount": 280,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2018",
+    "description": {
+      "en": "Known for copy trading and derivatives, with an active community ecosystem.",
+      "zh": "以跟單交易與衍生品為特色的平臺，社群生態活躍。"
+    },
+    "features": {
+      "en": [
+        "Copy trading",
+        "Perpetual futures",
+        "Spot trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "跟單交易",
+        "永續合約",
+        "現貨交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "copyTrade"
+    ],
+    "breakdown": {
+      "security": 4.2,
+      "liquidity": 4.3,
+      "fees": 4.4,
+      "experience": 4.3,
+      "support": 4.0
+    },
+    "recommended": false,
+    "website": "https://www.bitget.com"
+  },
+  {
+    "id": "kucoin",
+    "name": "KuCoin",
+    "logoText": "KC",
+    "brandColor": "#24AE8F",
+    "rating": 4.2,
+    "score": 84.0,
+    "reviews": 4310,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Licence information unverified",
+        "Micro-cap volatility"
+      ],
+      "zh": [
+        "牌照資訊待核實",
+        "小幣種波動風險"
+      ]
+    },
+    "volume24h": "$7.2B",
+    "coinsCount": 700,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2017",
+    "description": {
+      "en": "Wide coin coverage for long-tail assets, alongside futures and earn products.",
+      "zh": "幣種覆蓋廣泛，適合尋找長尾資產的使用者，同時提供合約與理財服務。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading",
+        "Staking"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易",
+        "質押"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 4.0,
+      "liquidity": 4.1,
+      "fees": 4.3,
+      "experience": 4.2,
+      "support": 4.0
+    },
+    "recommended": false,
+    "website": "https://www.kucoin.com"
+  },
+  {
+    "id": "bitso",
+    "name": "Bitso",
+    "logoText": "BI",
+    "brandColor": "#0E4C8A",
+    "rating": 4.2,
+    "score": 84.0,
+    "reviews": 1840,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Fiat channel limits"
+      ],
+      "zh": [
+        "法幣通道受限"
+      ]
+    },
+    "volume24h": "$0.4B",
+    "coinsCount": 180,
+    "makerFee": "0.10%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Mexico",
+      "zh": "墨西哥"
+    },
+    "established": "2014",
+    "description": {
+      "en": "Latin America's largest exchange, with mature MXN fiat rails and a locally regulated presence.",
+      "zh": "拉丁美洲規模最大的交易所，墨西哥披索出入金通道成熟，本地合規資質相對完整。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Fiat on/off-ramp",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "法幣出入金",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "fiat",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 4.4,
+      "liquidity": 4.0,
+      "fees": 4.2,
+      "experience": 4.3,
+      "support": 4.1
+    },
+    "recommended": false,
+    "website": "https://bitso.com"
+  },
+  {
+    "id": "bitflyer",
+    "name": "bitFlyer",
+    "logoText": "BF",
+    "brandColor": "#0B2E4F",
+    "rating": 4.2,
+    "score": 84.0,
+    "reviews": 1520,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Identity verification required"
+      ],
+      "zh": [
+        "實名認證要求"
+      ]
+    },
+    "volume24h": "$0.9B",
+    "coinsCount": 40,
+    "makerFee": "0.10%",
+    "takerFee": "0.15%",
+    "country": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "established": "2014",
+    "description": {
+      "en": "A licensed Japanese platform with a narrow but deep market list, popular with professional JPY traders.",
+      "zh": "日本持牌交易平臺，幣種少但日圓市場深度充足，受專業交易者青睞。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Fiat on/off-ramp",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "法幣出入金",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "fiat"
+    ],
+    "breakdown": {
+      "security": 4.6,
+      "liquidity": 4.1,
+      "fees": 4.0,
+      "experience": 4.2,
+      "support": 4.0
+    },
+    "recommended": false,
+    "website": "https://bitflyer.com"
+  },
+  {
+    "id": "deribit",
+    "name": "Deribit",
+    "logoText": "DB",
+    "brandColor": "#00C08B",
+    "rating": 4.2,
+    "score": 84.0,
+    "reviews": 1450,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "High options expertise required",
+        "Derivatives leverage risk"
+      ],
+      "zh": [
+        "期權專業門檻高",
+        "衍生品槓桿風險"
+      ]
+    },
+    "volume24h": "$4.6B",
+    "coinsCount": 30,
+    "makerFee": "0.00%",
+    "takerFee": "0.03%",
+    "country": {
+      "en": "Netherlands",
+      "zh": "荷蘭"
+    },
+    "established": "2016",
+    "description": {
+      "en": "A derivatives venue focused on options and perpetuals with professional-grade tooling, best for experienced traders.",
+      "zh": "專注期權與永續合約的衍生品平臺，專業工具完善，更適合有經驗的交易者。"
+    },
+    "features": {
+      "en": [
+        "Options",
+        "Perpetual futures",
+        "Portfolio margin",
+        "API trading",
+        "Market maker program"
+      ],
+      "zh": [
+        "期權交易",
+        "永續合約",
+        "組合保證金",
+        "API 交易",
+        "做市計劃"
+      ]
+    },
+    "marketTypes": [
+      "options",
+      "futures"
+    ],
+    "breakdown": {
+      "security": 4.4,
+      "liquidity": 4.5,
+      "fees": 4.6,
+      "experience": 4.3,
+      "support": 4.0
+    },
+    "recommended": false,
+    "website": "https://www.deribit.com"
+  },
+  {
+    "id": "gate",
+    "name": "Gate.io",
+    "logoText": "GT",
+    "brandColor": "#C71D23",
+    "rating": 4.1,
+    "score": 82.0,
+    "reviews": 3890,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Thin liquidity in small caps"
+      ],
+      "zh": [
+        "小幣種流動性風險"
+      ]
+    },
+    "volume24h": "$5.6B",
+    "coinsCount": 1400,
+    "makerFee": "0.15%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Cayman Islands",
+      "zh": "開曼群島"
+    },
+    "established": "2013",
+    "description": {
+      "en": "A long-running platform listing a large number of coins, suited to users following early-stage projects.",
+      "zh": "老牌交易平臺，上線幣種數量多，適合關注早期專案的使用者。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "Launchpad",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "Launchpad",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 4.1,
+      "liquidity": 4.0,
+      "fees": 4.2,
+      "experience": 4.0,
+      "support": 3.9
+    },
+    "recommended": false,
+    "website": "https://www.gate.io"
+  },
+  {
+    "id": "bithumb",
+    "name": "Bithumb",
+    "logoText": "BH",
+    "brandColor": "#F37321",
+    "rating": 4.1,
+    "score": 82.0,
+    "reviews": 2980,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Korea-focused market",
+        "Regulatory policy changes"
+      ],
+      "zh": [
+        "韓國市場為主",
+        "監管政策變化"
+      ]
+    },
+    "volume24h": "$3.2B",
+    "coinsCount": 260,
+    "makerFee": "0.25%",
+    "takerFee": "0.25%",
+    "country": {
+      "en": "South Korea",
+      "zh": "韓國"
+    },
+    "established": "2014",
+    "description": {
+      "en": "A Korean veteran with broad KRW market coverage; watch local regulatory changes.",
+      "zh": "韓國老牌交易平臺，韓元市場覆蓋廣泛，需關注當地監管政策變化。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "KRW on/off-ramp",
+        "API trading",
+        "Staking"
+      ],
+      "zh": [
+        "現貨交易",
+        "韓元出入金",
+        "API 交易",
+        "質押"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.2,
+      "liquidity": 4.1,
+      "fees": 4.0,
+      "experience": 4.1,
+      "support": 3.9
+    },
+    "recommended": false,
+    "website": "https://www.bithumb.com"
+  },
+  {
+    "id": "whitebit",
+    "name": "WhiteBIT",
+    "logoText": "WB",
+    "brandColor": "#1C8BFF",
+    "rating": 4.1,
+    "score": 82.0,
+    "reviews": 2260,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$2.6B",
+    "coinsCount": 350,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Estonia",
+      "zh": "愛沙尼亞"
+    },
+    "established": "2018",
+    "description": {
+      "en": "A European platform with strong EUR channels, competitive fees and a growing Web3 and earn lineup.",
+      "zh": "歐洲平臺，歐元出入金通道順暢，費率有競爭力，並持續擴充 Web3 與理財產品。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "Web3 wallet",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "Web3 錢包",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn",
+      "web3"
+    ],
+    "breakdown": {
+      "security": 4.3,
+      "liquidity": 4.2,
+      "fees": 4.3,
+      "experience": 4.1,
+      "support": 3.9
+    },
+    "recommended": false,
+    "website": "https://whitebit.com"
+  },
+  {
+    "id": "htx",
+    "name": "HTX",
+    "logoText": "HT",
+    "brandColor": "#2C6AF5",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 3520,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Past security incidents",
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "歷史安全事件需關注",
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$3.9B",
+    "coinsCount": 600,
+    "makerFee": "0.20%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2013",
+    "description": {
+      "en": "One of the veteran platforms, offering spot, futures and earn as core services.",
+      "zh": "老牌交易平臺之一，提供現貨、合約與理財等基礎服務。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.8,
+      "liquidity": 4.0,
+      "fees": 4.0,
+      "experience": 4.0,
+      "support": 3.8
+    },
+    "recommended": false,
+    "website": "https://www.htx.com"
+  },
+  {
+    "id": "bingx",
+    "name": "BingX",
+    "logoText": "BX",
+    "brandColor": "#2970FF",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 2450,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk",
+        "Copy-trading strategy risk"
+      ],
+      "zh": [
+        "衍生品槓桿風險",
+        "跟單策略風險"
+      ]
+    },
+    "volume24h": "$6.8B",
+    "coinsCount": 400,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Singapore",
+      "zh": "新加坡"
+    },
+    "established": "2018",
+    "description": {
+      "en": "Social copy trading and derivatives with a fast product cadence, for strategy-focused traders.",
+      "zh": "以社交跟單與衍生品為特色的平臺，產品節奏快，適合關注策略交易的使用者。"
+    },
+    "features": {
+      "en": [
+        "Copy trading",
+        "Perpetual futures",
+        "Spot trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "跟單交易",
+        "永續合約",
+        "現貨交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "copyTrade"
+    ],
+    "breakdown": {
+      "security": 4.0,
+      "liquidity": 4.1,
+      "fees": 4.3,
+      "experience": 4.2,
+      "support": 3.9
+    },
+    "recommended": false,
+    "website": "https://bingx.com"
+  },
+  {
+    "id": "bitfinex",
+    "name": "Bitfinex",
+    "logoText": "BF",
+    "brandColor": "#16B157",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 2210,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Past security incidents",
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "歷史安全事件需關注",
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$1.8B",
+    "coinsCount": 180,
+    "makerFee": "0.10%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "British Virgin Islands",
+      "zh": "英屬維爾京群島"
+    },
+    "established": "2012",
+    "description": {
+      "en": "A veteran professional venue offering spot, margin and derivatives for advanced users.",
+      "zh": "老牌專業交易平臺，提供現貨、保證金與衍生品服務，面向進階使用者。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Margin trading",
+        "Derivatives",
+        "API trading",
+        "Lending"
+      ],
+      "zh": [
+        "現貨交易",
+        "保證金交易",
+        "衍生品",
+        "API 交易",
+        "借貸"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "lending"
+    ],
+    "breakdown": {
+      "security": 3.9,
+      "liquidity": 4.3,
+      "fees": 4.1,
+      "experience": 4.0,
+      "support": 3.8
+    },
+    "recommended": false,
+    "website": "https://www.bitfinex.com"
+  },
+  {
+    "id": "phemex",
+    "name": "Phemex",
+    "logoText": "PX",
+    "brandColor": "#1F2A44",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 1980,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk"
+      ],
+      "zh": [
+        "衍生品槓桿風險"
+      ]
+    },
+    "volume24h": "$1.8B",
+    "coinsCount": 300,
+    "makerFee": "0.01%",
+    "takerFee": "0.06%",
+    "country": {
+      "en": "Singapore",
+      "zh": "新加坡"
+    },
+    "established": "2019",
+    "description": {
+      "en": "A derivatives-first platform founded by former Morgan Stanley engineers, known for low fees and copy trading.",
+      "zh": "由前摩根士丹利工程團隊創立，以合約交易為主，費率低並提供跟單與策略工具。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Perpetual futures",
+        "Copy trading",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "永續合約",
+        "跟單交易",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "copyTrade"
+    ],
+    "breakdown": {
+      "security": 4.1,
+      "liquidity": 4.2,
+      "fees": 4.4,
+      "experience": 4.0,
+      "support": 3.8
+    },
+    "recommended": false,
+    "website": "https://phemex.com"
+  },
+  {
+    "id": "bitmex",
+    "name": "BitMEX",
+    "logoText": "BM",
+    "brandColor": "#F7C600",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 1890,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Derivatives leverage risk",
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "衍生品槓桿風險",
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$2.1B",
+    "coinsCount": 40,
+    "makerFee": "0.02%",
+    "takerFee": "0.05%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2014",
+    "description": {
+      "en": "An early perpetuals platform with mature matching and API support, suited to professional futures traders.",
+      "zh": "永續合約領域的早期平臺，撮合與 API 能力成熟，適合專業合約交易者。"
+    },
+    "features": {
+      "en": [
+        "Perpetual futures",
+        "Margin trading",
+        "API trading",
+        "Market maker program"
+      ],
+      "zh": [
+        "永續合約",
+        "保證金交易",
+        "API 交易",
+        "做市計劃"
+      ]
+    },
+    "marketTypes": [
+      "futures"
+    ],
+    "breakdown": {
+      "security": 4.0,
+      "liquidity": 4.2,
+      "fees": 4.4,
+      "experience": 4.0,
+      "support": 3.8
+    },
+    "recommended": false,
+    "website": "https://www.bitmex.com"
+  },
+  {
+    "id": "coincheck",
+    "name": "Coincheck",
+    "logoText": "CC",
+    "brandColor": "#00B354",
+    "rating": 4.0,
+    "score": 80.0,
+    "reviews": 1310,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Past security incidents",
+        "Identity verification required"
+      ],
+      "zh": [
+        "歷史安全事件需關注",
+        "實名認證要求"
+      ]
+    },
+    "volume24h": "$0.6B",
+    "coinsCount": 30,
+    "makerFee": "0.00%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "established": "2012",
+    "description": {
+      "en": "A regulated Japanese exchange rebuilt after its 2018 incident, now focused on simple spot trading and custody.",
+      "zh": "日本合規交易所，2018 年事件後重建風控體系，目前以現貨與託管服務為主。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Fiat on/off-ramp",
+        "Staking",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "法幣出入金",
+        "質押",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "fiat",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 4.1,
+      "liquidity": 3.9,
+      "fees": 4.2,
+      "experience": 4.0,
+      "support": 3.8
+    },
+    "recommended": false,
+    "website": "https://coincheck.com"
+  },
+  {
+    "id": "mexc",
+    "name": "MEXC",
+    "logoText": "MX",
+    "brandColor": "#1E5EFF",
+    "rating": 3.9,
+    "score": 78.0,
+    "reviews": 2760,
+    "riskLevel": "high",
+    "riskTags": {
+      "en": [
+        "Limited compliance disclosure",
+        "Micro-cap volatility",
+        "Derivatives leverage risk"
+      ],
+      "zh": [
+        "合規資訊有限",
+        "小幣種波動風險",
+        "衍生品槓桿風險"
+      ]
+    },
+    "volume24h": "$4.3B",
+    "coinsCount": 1800,
+    "makerFee": "0.00%",
+    "takerFee": "0.05%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2018",
+    "description": {
+      "en": "Fast listings and a huge coin count. Built for high risk appetite — assess compliance and security yourself.",
+      "zh": "上新速度快、幣種數量多，適合高風險偏好的交易者，需自行評估合規與安全風險。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Launchpad",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "Launchpad",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures"
+    ],
+    "breakdown": {
+      "security": 3.7,
+      "liquidity": 3.9,
+      "fees": 4.4,
+      "experience": 3.9,
+      "support": 3.6
+    },
+    "recommended": false,
+    "website": "https://www.mexc.com"
+  },
+  {
+    "id": "coinex",
+    "name": "CoinEx",
+    "logoText": "CX",
+    "brandColor": "#05B169",
+    "rating": 3.9,
+    "score": 78.0,
+    "reviews": 1670,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Limited compliance disclosure",
+        "Micro-cap volatility"
+      ],
+      "zh": [
+        "合規資訊有限",
+        "小幣種波動風險"
+      ]
+    },
+    "volume24h": "$1.5B",
+    "coinsCount": 800,
+    "makerFee": "0.20%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2017",
+    "description": {
+      "en": "A mid-size platform with broad coin coverage, offering spot, futures and earn for long-tail exploration.",
+      "zh": "幣種覆蓋較廣的中型平臺，提供現貨、合約與理財服務，適合長尾資產探索。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.9,
+      "liquidity": 3.8,
+      "fees": 4.1,
+      "experience": 3.9,
+      "support": 3.7
+    },
+    "recommended": false,
+    "website": "https://www.coinex.com"
+  },
+  {
+    "id": "lbank",
+    "name": "LBank",
+    "logoText": "LB",
+    "brandColor": "#1D63ED",
+    "rating": 3.9,
+    "score": 78.0,
+    "reviews": 1420,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Limited compliance disclosure",
+        "Micro-cap volatility"
+      ],
+      "zh": [
+        "合規資訊有限",
+        "小幣種波動風險"
+      ]
+    },
+    "volume24h": "$1.2B",
+    "coinsCount": 700,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "British Virgin Islands",
+      "zh": "英屬維京群島"
+    },
+    "established": "2018",
+    "description": {
+      "en": "A long-tail coin venue with a very wide listing range, suited to traders hunting early-stage assets.",
+      "zh": "長尾幣種覆蓋極廣，上新速度快，適合尋找早期資產的交易者，但小幣種波動較大。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.9,
+      "liquidity": 3.8,
+      "fees": 4.3,
+      "experience": 3.9,
+      "support": 3.6
+    },
+    "recommended": false,
+    "website": "https://www.lbank.com"
+  },
+  {
+    "id": "ascendex",
+    "name": "AscendEX",
+    "logoText": "AX",
+    "brandColor": "#5751D6",
+    "rating": 3.8,
+    "score": 76.0,
+    "reviews": 760,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Limited compliance disclosure"
+      ],
+      "zh": [
+        "合規資訊有限"
+      ]
+    },
+    "volume24h": "$0.4B",
+    "coinsCount": 300,
+    "makerFee": "0.20%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Singapore",
+      "zh": "新加坡"
+    },
+    "established": "2018",
+    "description": {
+      "en": "A mid-size platform offering spot, perpetuals and structured earn products, with steady but moderate liquidity.",
+      "zh": "中型交易平臺，提供現貨、永續合約與結構化理財產品，流動性中等且較為穩定。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.9,
+      "liquidity": 3.7,
+      "fees": 3.9,
+      "experience": 3.8,
+      "support": 3.5
+    },
+    "recommended": false,
+    "website": "https://ascendex.com"
+  },
+  {
+    "id": "poloniex",
+    "name": "Poloniex",
+    "logoText": "PL",
+    "brandColor": "#0A5C46",
+    "rating": 3.7,
+    "score": 74.0,
+    "reviews": 980,
+    "riskLevel": "high",
+    "riskTags": {
+      "en": [
+        "Past security incidents",
+        "Licence information unverified"
+      ],
+      "zh": [
+        "歷史安全事件需關注",
+        "牌照資訊待核實"
+      ]
+    },
+    "volume24h": "$0.3B",
+    "coinsCount": 250,
+    "makerFee": "0.10%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Seychelles",
+      "zh": "塞席爾"
+    },
+    "established": "2014",
+    "description": {
+      "en": "One of the oldest venues, now repositioned around spot and staking; past security incidents weigh on its rating.",
+      "zh": "歷史最悠久的交易所之一，現以現貨與質押為主；過往安全事件使其評分承壓。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Staking",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "質押",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "staking"
+    ],
+    "breakdown": {
+      "security": 3.6,
+      "liquidity": 3.4,
+      "fees": 3.9,
+      "experience": 3.5,
+      "support": 3.3
+    },
+    "recommended": false,
+    "website": "https://poloniex.com"
+  },
+  {
+    "id": "bitmart",
+    "name": "BitMart",
+    "logoText": "BM",
+    "brandColor": "#0F9BFF",
+    "rating": 3.7,
+    "score": 74.0,
+    "reviews": 890,
+    "riskLevel": "high",
+    "riskTags": {
+      "en": [
+        "Past security incidents",
+        "Micro-cap volatility"
+      ],
+      "zh": [
+        "歷史安全事件需關注",
+        "小幣種波動風險"
+      ]
+    },
+    "volume24h": "$1.0B",
+    "coinsCount": 900,
+    "makerFee": "0.25%",
+    "takerFee": "0.25%",
+    "country": {
+      "en": "Cayman Islands",
+      "zh": "開曼群島"
+    },
+    "established": "2017",
+    "description": {
+      "en": "A wide-listing venue with aggressive marketing; fee levels and past incidents call for extra caution.",
+      "zh": "上幣數量龐大、營銷力度強，但費率偏高且曾有安全事件，使用時需格外謹慎。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.7,
+      "liquidity": 3.9,
+      "fees": 3.8,
+      "experience": 3.6,
+      "support": 3.4
+    },
+    "recommended": false,
+    "website": "https://www.bitmart.com"
+  },
+  {
+    "id": "xt",
+    "name": "XT.com",
+    "logoText": "XT",
+    "brandColor": "#6C5CE7",
+    "rating": 3.6,
+    "score": 72.0,
+    "reviews": 640,
+    "riskLevel": "medium",
+    "riskTags": {
+      "en": [
+        "Limited compliance disclosure",
+        "Thin liquidity in small caps"
+      ],
+      "zh": [
+        "合規資訊有限",
+        "小幣種流動性風險"
+      ]
+    },
+    "volume24h": "$0.5B",
+    "coinsCount": 800,
+    "makerFee": "0.20%",
+    "takerFee": "0.20%",
+    "country": {
+      "en": "Lithuania",
+      "zh": "立陶宛"
+    },
+    "established": "2018",
+    "description": {
+      "en": "A broad-listing platform aimed at long-tail assets, with thinner liquidity outside the top pairs.",
+      "zh": "以長尾資產為主的綜合平臺，主流幣對之外的流動性相對偏薄。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "API trading"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "API 交易"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 3.6,
+      "liquidity": 3.5,
+      "fees": 4.1,
+      "experience": 3.6,
+      "support": 3.3
+    },
+    "recommended": false,
+    "website": "https://www.xt.com"
+  }
+]
