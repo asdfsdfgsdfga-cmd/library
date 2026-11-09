@@ -64,6 +64,70 @@
     "website": "https://www.binance.com"
   },
   {
+    "id": "baidu",
+    "name": "baidu -- 123",
+    "logoText": "BN",
+    "brandColor": "#F0B90B",
+    "rating": 4.8,
+    "score": 96.0,
+    "reviews": 12840,
+    "riskLevel": "low",
+    "riskTags": {
+      "en": [
+        "Regional compliance restrictions"
+      ],
+      "zh": [
+        "部分地區合規限制"
+      ]
+    },
+    "volume24h": "$76.5B",
+    "coinsCount": 420,
+    "makerFee": "0.10%",
+    "takerFee": "0.10%",
+    "country": {
+      "en": "Global",
+      "zh": "全球"
+    },
+    "established": "2017",
+    "description": {
+      "en": "The largest crypto exchange by trading volume, offering spot, futures, earn and more. Deep liquidity across markets.",
+      "zh": "全球交易量領先的數字資產交易平臺，提供現貨、合約、理財等多元產品。深度與流動性表現突出。"
+    },
+    "features": {
+      "en": [
+        "Spot trading",
+        "Futures trading",
+        "Earn",
+        "Launchpool",
+        "API trading",
+        "Web3 wallet"
+      ],
+      "zh": [
+        "現貨交易",
+        "合約交易",
+        "理財 Earn",
+        "Launchpool",
+        "API 交易",
+        "Web3 錢包"
+      ]
+    },
+    "marketTypes": [
+      "spot",
+      "futures",
+      "options",
+      "earn"
+    ],
+    "breakdown": {
+      "security": 4.8,
+      "liquidity": 4.9,
+      "fees": 4.5,
+      "experience": 4.8,
+      "support": 4.4
+    },
+    "recommended": true,
+    "website": "https://www.baidu.com"
+  },
+  {
     "id": "okx",
     "name": "OKX",
     "logoText": "OK",
